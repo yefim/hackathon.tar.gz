@@ -1,3 +1,11 @@
-.title {
-  text-align: center;
+.well h3 {
+  margin: 0 0 10px 0;
+}
+
+.well h3:last-child {
+  margin: 0;
+}
+
+p {
+  font-size: 16px;
 }
